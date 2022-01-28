@@ -1,0 +1,13 @@
+{
+  "name": "static-site-webpack-plugin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/Nax/static-site-webpack-plugin",
+  "author": "Maxime Bacoux <max@bacoux.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "webpack-node-externals": "^3.0.0"
+  }
+}
