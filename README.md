@@ -88,7 +88,7 @@ The static entrypoint.
 
 When false, `/foo` will generate `foo/index.html`.  
 When true, `/foo` will generate `foo.html`.  
-When `"auto"`, it will be determined based on the rpesence of a trailing slash.
+When `"auto"`, it will be determined based on the presence of a trailing slash.
 
 Defaults to `false`.
 
